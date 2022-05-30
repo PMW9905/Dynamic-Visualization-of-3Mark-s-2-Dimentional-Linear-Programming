@@ -97,7 +97,7 @@ Either option works, as the end result, given that you provide a LP problem with
 Figure 4: Example output of program. Produced by running manim command on the python script. Can be located under media -> videos 
 
 
-## 6. Sources
+## 5. Sources
 	
 [1]	M. de Berg, O. Cheong, M. van Kreveld, and M. Overmars, Computational geometry: Algorithms and applications, 3rd ed. Beijing: World Publishing Corporation, 2013.
 
